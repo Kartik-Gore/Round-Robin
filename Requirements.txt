@@ -1,0 +1,11 @@
+matplotlib
+pillow
+tkinter
+import tkintertkinter as tk
+from tkinter import ttk, messagebox
+import matplotlib.pyplot as plt
+from statistics import mean
+from PIL import Image, ImageTk
+import urllib.request
+import io
+import random
